@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+h1{
+    color: white;
+}
+p {
+    color: white;
+}
+ul {
+  color:white;
+}
+div.highasfk {
+    border-image-source: url(highasfk.gif);
+    border-image-width: 50px;
+    border-image-source: url(train.gif);
+    border-image-width: 50px;
+    border-image-source: url(salmondance.gif);
+    border-image-width: 50px;
+
+}
