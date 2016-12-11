@@ -1,21 +1,27 @@
 body {
     background-color: black;
+    text-align: center;
+    font-size: 18px;
 }
-h1{
-    color: white;
+h1 {
+  color: white;
+  font-size: 28px;
+}
+h2 {
+  color: white;
+  font-size: 28px;
 }
 p {
     color: white;
-}
-ul {
-  color:white;
+    width:auto;
+    font-size: 16px;
 }
 div.highasfk {
-    border-image-source: url(highasfk.gif);
-    border-image-width: 50px;
-    border-image-source: url(train.gif);
-    border-image-width: 50px;
-    border-image-source: url(salmondance.gif);
-    border-image-width: 50px;
+  display: inline-block;
+  margin: auto;
+  width: 250px;
+}
 
+div.highasfk img {
+  width: 100%;
 }
